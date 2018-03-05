@@ -1,0 +1,12 @@
+.languages {
+    list-style: none;
+}
+
+.languages li {
+    display: flex;
+    align-items: center;
+}
+
+.languages b {
+    margin-left: 15px;
+}

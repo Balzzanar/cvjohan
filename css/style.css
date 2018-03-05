@@ -10,3 +10,12 @@
 .languages b {
     margin-left: 15px;
 }
+
+.no-bottom-margin {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.local-info {
+    margin-top: -50px;
+}
